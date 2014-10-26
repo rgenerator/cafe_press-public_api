@@ -1,4 +1,4 @@
-# `CafePress::PublicAPI`
+# CafePress::PublicAPI
 
 CafePress Public API client for Ruby
 
