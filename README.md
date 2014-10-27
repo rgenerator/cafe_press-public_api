@@ -8,3 +8,4 @@ CafePress Public API client for Ruby
 
 * **Do not** use `ActiveSupport::CoreExt::Hash#from_xml`
 * Calls needed to create products (`product.create.cp`, `product.save.cp`)
+* Use `snake_case` for `page` and `pageSize` options
