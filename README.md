@@ -2,7 +2,10 @@
 
 CafePress Public API client for Ruby
 
-**NOTICE** Currently has only one call: `list_deep_by_store`.
+**NOTICE** Currently has only two calls:
+
+1. `list_deep_by_store`
+1. `find_product`
 
 ## TODO
 
